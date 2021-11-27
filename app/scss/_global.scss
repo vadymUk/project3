@@ -1,7 +1,7 @@
 html,
 body {
 	height: 100%;
-  font-family: 'MuseoModerno';
+  font-family: 'MuseoModerno', sans-serif;
 }
 
 .wrapper {
@@ -18,9 +18,8 @@ body {
 }
 
 .container{
-  max-width: 1200px;
+  max-width: 950px;
   margin: 0 auto;
-  padding: 0 15px;
 }
 
 

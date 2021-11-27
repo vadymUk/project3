@@ -1,4 +1,4 @@
-$(function () {
+// $(function () {
 
-    new WOW().init();
-})
+//     new WOW().init();
+// })
